@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Questions de science</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chargement">Chargement ...</string>
+    <string name="Question_de_science">Questions de science</string>
+    <string name="valider">"  VALIDER  "</string>
+    <string name="suite">"  SUITE  "</string>
+    <string name="ncompte">Créez un compte</string>
+    <string name="nom">Nom:</string>
+    <string name="code">Code:</string>
+    <string name="confirmer">Confirmez le code:</string>
+    <string name="pays">Pays:</string>
+    <string name="compte">Vous avez un compte</string>
+    <string name="login">Identifiez-vous</string>
+    <string name="nom1">Entrez votre nom</string>
+    <string name="code1">Entrez votre code</string>
+    <string name="pays1">Entrez votre pays</string>
+    <string name="moyennes">50 meilleures moyennes</string>
+    <string name="notes">Vos 10 dernières notes</string>
+    <string name="note1">Note 1:</string>
+    <string name="note2">Note 2:</string>
+    <string name="note3">Note 3:</string>
+    <string name="note4">Note 4:</string>
+    <string name="note5">Note 5:</string>
+    <string name="note6">Note 6:</string>
+    <string name="note7">Note 7:</string>
+    <string name="note8">Note 8:</string>
+    <string name="note9">Note 9:</string>
+    <string name="note10">Note 10:</string>
+    <string name="moyenne">"Votre moyenne:  "</string>
+    <string name="classement">"Votre classement:  "</string>
+    <string name="nbjoueurs">"Joueurs inscrits:  "</string>
+    <string name="nbjoueurs_c">"Joueurs classés:  "</string>
+    <string name="nonclasse">"Non classé - Moyenne ancienne"</string>
+    <string name="connexion">"connexion ... "</string>
+</resources>

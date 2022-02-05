@@ -1,0 +1,34 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="aperr.android.questionsdescience.ClassementTitre">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/header_classement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/moyennes"
+            android:textSize="30sp"
+            android:textColor="#ffffff"/>
+
+        <ImageView
+            android:id="@+id/arrow"
+            android:layout_width="65dp"
+            android:layout_height="40dp"
+            android:layout_alignRight="@+id/header_classement"
+            android:scaleType="fitXY" />
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>

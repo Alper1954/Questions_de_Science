@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Science Questions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chargement">Loading ...</string>
+    <string name="Question_de_science">Science questions</string>
+    <string name="valider">"  VALID  "</string>
+    <string name="suite">"  NEXT  "</string>
+    <string name="ncompte">"Create an account</string>
+    <string name="nom">Name:</string>
+    <string name="code">Code:</string>
+    <string name="confirmer">Confirm the code:</string>
+    <string name="pays">Country:</string>
+    <string name="compte">You have an account</string>
+    <string name="login">Log in</string>
+    <string name="nom1">Type your name</string>
+    <string name="code1">Type your code</string>
+    <string name="pays1">Type your country</string>
+    <string name="moyennes">50 best mark averages</string>
+    <string name="notes">Your last 10 marks</string>
+    <string name="note1">Mark 1:</string>
+    <string name="note2">Mark 2:</string>
+    <string name="note3">Mark 3:</string>
+    <string name="note4">Mark 4:</string>
+    <string name="note5">Mark 5:</string>
+    <string name="note6">Mark 6:</string>
+    <string name="note7">Mark 7:</string>
+    <string name="note8">Mark 8:</string>
+    <string name="note9">Mark 9:</string>
+    <string name="note10">Mark 10:</string>
+    <string name="moyenne">"Your mark average:  "</string>
+    <string name="classement">"Your ranking:  "</string>
+    <string name="nbjoueurs">"Registered players:  "</string>
+    <string name="nbjoueurs_c">"Ranked players:  "</string>
+    <string name="nonclasse">"Not ranked - Old mark average"</string>
+    <string name="connexion">"connecting ... "</string>
+</resources>
